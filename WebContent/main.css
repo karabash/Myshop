@@ -1,0 +1,207 @@
+@CHARSET "ISO-8859-1";
+
+
+.mytable {
+	margin-top: 300;
+}
+
+.user {
+	width: 100%;
+}
+
+.user label {
+	font-family: fantasy, serif;
+	color: black;
+}
+
+.user input {
+	font-family: fantasy, serif;
+	color: black;
+	border: 1;
+}
+
+.headerText {
+	float: left;
+	width: 100%;
+}
+
+.headerText h1 {
+	font-family: fantasy, serif;
+	color: #9b0004;
+	text-align: center;
+	font-size: 60px;
+}
+
+#nav {
+	margin-top: 40px;
+	list-style-type: circle;
+	text-align: center;
+}
+
+#nav li {
+	text-shadow: 2px 2px 5px white;
+	display: inline;
+	padding: 15px;
+	vertical-align: middle;
+	font-family: fantasy, serif;
+	font-size: 40px;
+	margin: 0px;
+	position: relative;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+}
+
+#nav a {
+	text-decoration: none;
+	color: #9b0004;
+	vertical-align: center;
+}
+
+#nav a:HOVER {
+	color: #d7b428;
+	text-shadow: 2px 2px 5px #ae413c;
+}
+
+p {
+	color: #9b0004;
+	font-weight: 900;
+}
+
+.product {
+	float: left;
+	padding: 13px 13px;
+	margin: 0 auto;
+	width: 19%;
+}
+
+.products {
+	color: #9b0004;
+	height: 200px;
+	margin-left: 220px;
+	width: 33.3333%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.product a {
+	text-decoration: none;
+	color: #9b0004;
+	font-size: 25px;
+	font-weight: 900;
+}
+
+#adidas a {
+	text-shadow: 2px 2px 5px white;
+	font-size: 60px;
+	font-family: fantasy, serif;
+	margin-left: -20px;
+	text-decoration: none;
+	background-image: url(superstar.jpg);
+	height: 300px;
+	width: 300px;
+	background-size: 300px 300px;
+	background-repeat: no-repeat;
+	border: none;
+	color: #9b0004;
+}
+
+
+#adidas a:HOVER {
+	color: #d7b428;
+}
+
+.productadidas img {
+	width: 270px;
+	height: 250px;
+	margin-left: 20px;
+}
+
+
+.productadidas {
+	margin-left: 20px;
+	width: 20%;
+	text-align: center;
+	float: left;
+}
+
+.productadidas a{
+		color: #9b0004;
+	text-decoration: none;
+		font-family: fantasy, serif;
+	font-size: 19px;
+}
+
+.info {
+	color: red;
+	font-size: 40px;
+	text-align: center;
+}
+
+#register {
+	margin: 50px;
+	margin-left: 500px;
+	display: table;
+	text-align: center;
+	display: table;
+}
+
+.row {
+	display: table-row;
+}
+
+.row label {
+	color: yellow;
+	text-shadow: 2px 2px 5px RED;
+	font-size: 120%;
+	font-family: fantasy, serif;
+	display: table-cell;
+	padding: 5px;
+	text-align: right;
+}
+
+.row input {
+	color: #9b0004;
+	font-size: 120%;
+	font-family: fantasy, serif;
+	display: table-cell;
+	padding: 5px;
+	background-color: transparent;
+	border-color: yellow;
+	border-style: groove;
+	border-radius: 5px;
+}
+
+
+.dropdown button{
+	color: black;
+	background-color: white;
+	border: none;
+}
+
+.dropdown button:HOVER{
+	color: none;
+	background-color: black;
+}
+
+
+.selectoption {
+	    float: left;
+	
+margin-left: -210px;  
+margin-top: 300px;  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
